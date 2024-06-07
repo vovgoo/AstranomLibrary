@@ -1,0 +1,24 @@
+C:\Users\vovgo\source\repos\AstranomLibrary\AstranomLibrary\bin\Debug\AstranomLibrary.exe.config
+C:\Users\vovgo\source\repos\AstranomLibrary\AstranomLibrary\bin\Debug\AstranomLibrary.exe
+C:\Users\vovgo\source\repos\AstranomLibrary\AstranomLibrary\bin\Debug\AstranomLibrary.pdb
+C:\Users\vovgo\source\repos\AstranomLibrary\AstranomLibrary\obj\Debug\AstranomLibrary.csproj.AssemblyReference.cache
+C:\Users\vovgo\source\repos\AstranomLibrary\AstranomLibrary\obj\Debug\AstranomLibrary.Properties.Resources.resources
+C:\Users\vovgo\source\repos\AstranomLibrary\AstranomLibrary\obj\Debug\AstranomLibrary.csproj.GenerateResource.cache
+C:\Users\vovgo\source\repos\AstranomLibrary\AstranomLibrary\obj\Debug\AstranomLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vovgo\source\repos\AstranomLibrary\AstranomLibrary\obj\Debug\AstranomLibrary.exe
+C:\Users\vovgo\source\repos\AstranomLibrary\AstranomLibrary\obj\Debug\AstranomLibrary.pdb
+C:\Users\vovgo\source\repos\AstranomLibrary\AstranomLibrary\obj\Debug\AstranomLibrary.Form1.resources
+C:\Users\vovgo\source\repos\AstranomLibrary\AstranomLibrary\obj\Debug\AstranomLibrary.Library_Object.resources
+K:\Для программ\source\repos\AstranomLibrary\AstranomLibrary\bin\Debug\AstranomLibrary.exe.config
+K:\Для программ\source\repos\AstranomLibrary\AstranomLibrary\bin\Debug\AstranomLibrary.exe
+K:\Для программ\source\repos\AstranomLibrary\AstranomLibrary\bin\Debug\AstranomLibrary.pdb
+K:\Для программ\source\repos\AstranomLibrary\AstranomLibrary\obj\Debug\AstranomLibrary.csproj.AssemblyReference.cache
+K:\Для программ\source\repos\AstranomLibrary\AstranomLibrary\obj\Debug\AstranomLibrary.Admin_Object.resources
+K:\Для программ\source\repos\AstranomLibrary\AstranomLibrary\obj\Debug\AstranomLibrary.Change_Object.resources
+K:\Для программ\source\repos\AstranomLibrary\AstranomLibrary\obj\Debug\AstranomLibrary.Form1.resources
+K:\Для программ\source\repos\AstranomLibrary\AstranomLibrary\obj\Debug\AstranomLibrary.Library_Object.resources
+K:\Для программ\source\repos\AstranomLibrary\AstranomLibrary\obj\Debug\AstranomLibrary.Properties.Resources.resources
+K:\Для программ\source\repos\AstranomLibrary\AstranomLibrary\obj\Debug\AstranomLibrary.csproj.GenerateResource.cache
+K:\Для программ\source\repos\AstranomLibrary\AstranomLibrary\obj\Debug\AstranomLibrary.csproj.CoreCompileInputs.cache
+K:\Для программ\source\repos\AstranomLibrary\AstranomLibrary\obj\Debug\AstranomLibrary.exe
+K:\Для программ\source\repos\AstranomLibrary\AstranomLibrary\obj\Debug\AstranomLibrary.pdb

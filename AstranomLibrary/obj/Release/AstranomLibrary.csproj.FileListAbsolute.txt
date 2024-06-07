@@ -1,0 +1,13 @@
+C:\Users\vovgo\source\repos\AstranomLibrary\AstranomLibrary\bin\Release\AstranomLibrary.exe.config
+C:\Users\vovgo\source\repos\AstranomLibrary\AstranomLibrary\bin\Release\AstranomLibrary.exe
+C:\Users\vovgo\source\repos\AstranomLibrary\AstranomLibrary\bin\Release\AstranomLibrary.pdb
+C:\Users\vovgo\source\repos\AstranomLibrary\AstranomLibrary\obj\Release\AstranomLibrary.csproj.AssemblyReference.cache
+C:\Users\vovgo\source\repos\AstranomLibrary\AstranomLibrary\obj\Release\AstranomLibrary.Form1.resources
+C:\Users\vovgo\source\repos\AstranomLibrary\AstranomLibrary\obj\Release\AstranomLibrary.Properties.Resources.resources
+C:\Users\vovgo\source\repos\AstranomLibrary\AstranomLibrary\obj\Release\AstranomLibrary.csproj.GenerateResource.cache
+C:\Users\vovgo\source\repos\AstranomLibrary\AstranomLibrary\obj\Release\AstranomLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vovgo\source\repos\AstranomLibrary\AstranomLibrary\obj\Release\AstranomLibrary.exe
+C:\Users\vovgo\source\repos\AstranomLibrary\AstranomLibrary\obj\Release\AstranomLibrary.pdb
+C:\Users\vovgo\source\repos\AstranomLibrary\AstranomLibrary\obj\Release\AstranomLibrary.Library_Object.resources
+C:\Users\vovgo\source\repos\AstranomLibrary\AstranomLibrary\obj\Release\AstranomLibrary.Admin_Object.resources
+C:\Users\vovgo\source\repos\AstranomLibrary\AstranomLibrary\obj\Release\AstranomLibrary.Change_Object.resources
