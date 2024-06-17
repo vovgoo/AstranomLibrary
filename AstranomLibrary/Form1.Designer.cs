@@ -513,7 +513,6 @@
             this.panel6.Padding = new System.Windows.Forms.Padding(10, 12, 10, 0);
             this.panel6.Size = new System.Drawing.Size(380, 42);
             this.panel6.TabIndex = 1;
-            this.panel6.SizeChanged += new System.EventHandler(this.panel6_SizeChanged);
             // 
             // textBox1
             // 
@@ -666,7 +665,7 @@
             this.flowLayoutPanel2.Padding = new System.Windows.Forms.Padding(10);
             this.flowLayoutPanel2.Size = new System.Drawing.Size(1226, 343);
             this.flowLayoutPanel2.TabIndex = 1;
-            this.flowLayoutPanel2.SizeChanged += new System.EventHandler(this.flowLayoutPanel2_SizeChanged);
+            this.flowLayoutPanel2.SizeChanged += new System.EventHandler(this.flowLayoutPanel1_SizeChanged);
             // 
             // tabPage3
             // 
@@ -712,7 +711,7 @@
             this.flowLayoutPanel3.Padding = new System.Windows.Forms.Padding(10);
             this.flowLayoutPanel3.Size = new System.Drawing.Size(1226, 343);
             this.flowLayoutPanel3.TabIndex = 1;
-            this.flowLayoutPanel3.SizeChanged += new System.EventHandler(this.flowLayoutPanel3_SizeChanged);
+            this.flowLayoutPanel3.SizeChanged += new System.EventHandler(this.flowLayoutPanel1_SizeChanged);
             // 
             // tabPage5
             // 
@@ -1286,8 +1285,8 @@
             this.panel55.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel55.BackgroundImage")));
             this.panel55.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.panel55.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.panel55.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel55.Location = new System.Drawing.Point(1041, 315);
+            this.panel55.Dock = System.Windows.Forms.DockStyle.Right;
+            this.panel55.Location = new System.Drawing.Point(1177, 315);
             this.panel55.Margin = new System.Windows.Forms.Padding(10);
             this.panel55.Name = "panel55";
             this.panel55.Size = new System.Drawing.Size(63, 42);
@@ -1363,7 +1362,7 @@
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(360, 17);
             this.textBox4.TabIndex = 1;
-            this.textBox4.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox4_KeyPress);
+            this.textBox4.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyLetters_KeyPress);
             // 
             // panel11
             // 
@@ -1502,7 +1501,7 @@
             this.panel53.Name = "panel53";
             this.panel53.Size = new System.Drawing.Size(48, 47);
             this.panel53.TabIndex = 7;
-            this.panel53.Click += new System.EventHandler(this.panel53_Click);
+            this.panel53.Click += new System.EventHandler(this.panel52_Click);
             // 
             // tabPage8
             // 
@@ -1564,7 +1563,7 @@
             this.tableLayoutPanel6.SetRowSpan(this.flowLayoutPanel4, 7);
             this.flowLayoutPanel4.Size = new System.Drawing.Size(494, 272);
             this.flowLayoutPanel4.TabIndex = 3;
-            this.flowLayoutPanel4.SizeChanged += new System.EventHandler(this.flowLayoutPanel4_SizeChanged);
+            this.flowLayoutPanel4.SizeChanged += new System.EventHandler(this.flowLayoutPanel1_SizeChanged);
             // 
             // tabPage9
             // 
@@ -1654,7 +1653,7 @@
             this.tableLayoutPanel7.SetRowSpan(this.flowLayoutPanel5, 5);
             this.flowLayoutPanel5.Size = new System.Drawing.Size(494, 197);
             this.flowLayoutPanel5.TabIndex = 3;
-            this.flowLayoutPanel5.SizeChanged += new System.EventHandler(this.flowLayoutPanel5_SizeChanged);
+            this.flowLayoutPanel5.SizeChanged += new System.EventHandler(this.flowLayoutPanel1_SizeChanged);
             // 
             // tabPage10
             // 
@@ -1725,7 +1724,7 @@
             this.textBox7.Name = "textBox7";
             this.textBox7.Size = new System.Drawing.Size(360, 17);
             this.textBox7.TabIndex = 1;
-            this.textBox7.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox4_KeyPress);
+            this.textBox7.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyLetters_KeyPress);
             // 
             // panel15
             // 
@@ -1866,7 +1865,7 @@
             this.panel54.Name = "panel54";
             this.panel54.Size = new System.Drawing.Size(48, 47);
             this.panel54.TabIndex = 7;
-            this.panel54.Click += new System.EventHandler(this.panel54_Click);
+            this.panel54.Click += new System.EventHandler(this.panel52_Click);
             // 
             // tabPage11
             // 
@@ -2370,7 +2369,7 @@
             this.tableLayoutPanel10.SetRowSpan(this.flowLayoutPanel6, 7);
             this.flowLayoutPanel6.Size = new System.Drawing.Size(494, 272);
             this.flowLayoutPanel6.TabIndex = 3;
-            this.flowLayoutPanel6.SizeChanged += new System.EventHandler(this.flowLayoutPanel6_SizeChanged);
+            this.flowLayoutPanel6.SizeChanged += new System.EventHandler(this.flowLayoutPanel1_SizeChanged);
             // 
             // tabPage13
             // 
@@ -2460,7 +2459,7 @@
             this.tableLayoutPanel11.SetRowSpan(this.flowLayoutPanel7, 5);
             this.flowLayoutPanel7.Size = new System.Drawing.Size(494, 197);
             this.flowLayoutPanel7.TabIndex = 3;
-            this.flowLayoutPanel7.SizeChanged += new System.EventHandler(this.flowLayoutPanel7_SizeChanged);
+            this.flowLayoutPanel7.SizeChanged += new System.EventHandler(this.flowLayoutPanel1_SizeChanged);
             // 
             // tabPage14
             // 
@@ -2887,7 +2886,7 @@
             this.pictureBox4.Size = new System.Drawing.Size(340, 204);
             this.pictureBox4.TabIndex = 2;
             this.pictureBox4.TabStop = false;
-            this.pictureBox4.Click += new System.EventHandler(this.pictureBox4_Click);
+            this.pictureBox4.Click += new System.EventHandler(this.pictureBox3_Click);
             // 
             // label50
             // 

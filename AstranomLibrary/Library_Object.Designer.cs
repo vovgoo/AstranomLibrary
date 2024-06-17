@@ -48,7 +48,7 @@
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 24.24884F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 36.953F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 176F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 19F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 21F));
             this.tableLayoutPanel1.Controls.Add(this.label1, 0, 1);
             this.tableLayoutPanel1.Controls.Add(this.label2, 1, 1);
             this.tableLayoutPanel1.Controls.Add(this.label3, 2, 1);
@@ -85,7 +85,7 @@
             this.label2.ForeColor = System.Drawing.Color.White;
             this.label2.Location = new System.Drawing.Point(79, 26);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(122, 52);
+            this.label2.Size = new System.Drawing.Size(121, 52);
             this.label2.TabIndex = 1;
             this.label2.Text = "Звезда";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -96,11 +96,11 @@
             this.label3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label3.Font = new System.Drawing.Font("Montserrat", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(207, 26);
+            this.label3.Location = new System.Drawing.Point(206, 26);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(122, 52);
+            this.label3.Size = new System.Drawing.Size(121, 52);
             this.label3.TabIndex = 2;
-            this.label3.Text = "Тип";
+            this.label3.Text = "Название:";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label4
@@ -109,9 +109,9 @@
             this.label4.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label4.Font = new System.Drawing.Font("Montserrat", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label4.ForeColor = System.Drawing.Color.White;
-            this.label4.Location = new System.Drawing.Point(335, 26);
+            this.label4.Location = new System.Drawing.Point(333, 26);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(189, 52);
+            this.label4.Size = new System.Drawing.Size(188, 52);
             this.label4.TabIndex = 3;
             this.label4.Text = "label4";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -121,7 +121,7 @@
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(168)))), ((int)(((byte)(181)))));
             this.panel1.Controls.Add(this.label5);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel1.Location = new System.Drawing.Point(530, 29);
+            this.panel1.Location = new System.Drawing.Point(527, 29);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(170, 46);
             this.panel1.TabIndex = 4;
