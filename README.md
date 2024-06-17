@@ -4,7 +4,7 @@
 ![Application Screenshot](https://i.imgur.com/KdR9iND.png)
 
 ## Description
-This project was developed using the C++ programming language, Microsoft Access database, and WinForm technology for creating the graphical interface. 📊💻
+This project was developed using the C# programming language, Microsoft Access database, and WinForm technology for creating the graphical interface. 📊💻
 
 ## Technology Stack
 - C# 🚀
