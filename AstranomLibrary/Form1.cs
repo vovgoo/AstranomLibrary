@@ -14,7 +14,6 @@ namespace AstranomLibrary
         private int selectedIndex = -1;
         private int selectedIndexAdmin = -1;
         private int selectedIndexChangeObject = -1;
-        private const string connectionString = @"Provider=Microsoft.ACE.OLEDB.12.0; Data Source=K:\Для программ\source\repos\AstranomLibrary\AstranomLibrary\Database.accdb";
         private DatabaseConnection databaseInstance = DatabaseConnection.Instance;
 
         public Form1()
